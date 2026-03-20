@@ -126,7 +126,7 @@ This group represents the most vulnerable customers and should be prioritized fo
 - Develop targeted retention strategies for high-risk customer segments  
 
 ---
-
+```
 ## 📁 Project Structure
 telco-customer-churn-analysis/
 │
@@ -144,10 +144,7 @@ telco-customer-churn-analysis/
 │   └── churn_by_internet_service.png
 │
 └── README.md
-
-
----
-
+```
 ## 👤 Author
 
 **Ayodeji Emmanuel Monehin**
