@@ -75,7 +75,6 @@ Encourage customers to switch to longer-term contracts through incentives
 Investigate pricing, service quality, and expectations for fiber optic users
 Develop targeted retention strategies for high-risk customer segments
 
-📁 Project Structure
 telco-customer-churn-analysis/
 │
 ├── data/
@@ -92,6 +91,5 @@ telco-customer-churn-analysis/
 │   └── churn_by_internet_service.png
 │
 └── README.md
-
 👤 Author
 Ayodeji Emmanuel Monehin
