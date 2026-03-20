@@ -68,7 +68,7 @@ The dataset was cleaned and prepared before analysis:
 
 👉 Customers with shorter commitments are significantly more likely to churn.
 
-![Churn by Contract](outputs/churn_by_contract.png)
+![Churn by Contract](outputs/churn_by_contracts.png)
 
 ---
 
